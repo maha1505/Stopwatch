@@ -15,8 +15,7 @@ A feature-rich stopwatch built using **React** and **Material UI (MUI)**. Design
 
 ## 📸 Demo
 
-https://github.com/maha1505/Stopwatch/assets/your-github-username/demo-video-file.mp4  
-*(Replace with actual uploaded video URL after pushing to GitHub)*
+[🎥Demo Video](https://drive.google.com/file/d/1p9OwV78tPPL_J7flA9x1Cn0kYgcV88jA/view?usp=sharing)  
 
 ## 🛠️ Technologies Used
 
